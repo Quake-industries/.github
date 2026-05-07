@@ -3,7 +3,7 @@
 
 ### `Labonair`
 
-Experience a modern, KI supported, Privacy First IDE, [Labonair](https://github.com/Snenjih/Labonair)! Our mission is to give you a perfect balance for speed, privacy and productivity
+Experience a modern, KI supported, Privacy First Development Enviorment, [Nexum](https://github.com/Quake-industries/Nexum)! Our mission is to give you a perfect balance for speed, privacy and productivity
 
 <a href="https://www.labonair.app">Website</a> ·
 <a href="https://docs.labonair.app">Docs</a> ·
